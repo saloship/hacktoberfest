@@ -1372,4 +1372,12 @@
 - GitHub: [Lavanyasuc31](https://github.com/Lavanyasuc31)
 
 
+#### Name: [Saloni Kansal](https://github.com/saloship)
+
+- Education : BTech, Delhi
+- Place: Gurgoan , Haryana , INDIA
+- Bio:  Undergrad Student
+- GitHub: [saloship](https://github.com/saloship)
+
+
 
